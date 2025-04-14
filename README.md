@@ -6,12 +6,10 @@
     <a href="mailto:yan.cancella@outlook.com">
       <img src="https://img.shields.io/badge/Email-yan.cancella%40outlook.com-blue" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/yan-cancella/">
+    <a href="https://www.linkedin.com/in/yancanc/">
       <img src="https://img.shields.io/badge/LinkedIn-Yan_Cancella-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="tel:+5527995907783">
-      <img src="https://img.shields.io/badge/Phone-%2B55%2027%2099590--7783-green" alt="Phone" />
-    </a>
+   
   </p>
 </div>
 
@@ -45,29 +43,39 @@
 <table>
   <tr>
     <td>Languages</td>
-    <td>TypeScript, JavaScript, Python, PHP</td>
+    <td>TypeScript, JavaScript, Python, PHP, C#, GO</td>
   </tr>
   <tr>
     <td>Frameworks & Libraries</td>
-    <td>Next.js, Node.js, Vue.js</td>
+    <td>Next.js, Node.js, Vue.js, React, Laravel, Express, Nest.js, Angular, Svelte</td>
   </tr>
   <tr>
     <td>Databases</td>
-    <td>MySQL, MongoDB, Redis</td>
+    <td>MySQL, PostgreSQL, Redis, SQLite, MariaDB, Oracle, SQL Server, MongoDB</td>
   </tr>
   <tr>
     <td>Tools & Processes</td>
-    <td>Git, Docker, Followize, Custom CMS</td>
+    <td>Git, Docker, Followize, Custom CMS, Python Scripts, Bash Scripts, Linux</td>
   </tr>
   <tr>
     <td>Infrastructure</td>
-    <td>Microsoft Azure, AWS</td>
+    <td>Microsoft Azure, AWS, Google Cloud, Digital Ocean, Vercel, Cloudflare</td>
   </tr>
   <tr>
     <td>Queue Systems</td>
-    <td>RabbitMQ</td>
+    <td>RabbitMQ, BullMQ, Redis</td>
   </tr>
 </table>
+
+<h2>🖥️ Personal Portfolio</h2>
+
+<div align="center">
+  <a href="https://canc.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-canc.vercel.app-00A4EF?style=for-the-badge&logo=windows&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <p><strong>Check out my Windows-inspired portfolio website!</strong></p>
+  <p>A unique, interactive portfolio experience based on classic Windows interfaces</p>
+</div>
 
 <h2>🌟 Portfolio Highlights</h2>
 
@@ -102,6 +110,13 @@
 <p>
   I'm passionate about developing scalable, efficient, and secure applications that solve real-world problems. I thrive in collaborative environments where I can apply my technical expertise while continuing to learn and grow as a developer.
 </p>
+
+<h2>💭 Fun Fact</h2>
+
+<div align="center">
+  <pre><code>const myFavorite = ['JavaScript', '.map()', 'function'].map(item => `❤️ ${item}`).join(' ');</code></pre>
+  <p>If I had to pick one JavaScript feature I couldn't live without, it would definitely be <code>.map()</code>! There's something incredibly satisfying about transforming data with such elegant, functional syntax.</p>
+</div>
 
 <hr>
 
